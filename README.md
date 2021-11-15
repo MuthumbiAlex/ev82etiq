@@ -35,8 +35,10 @@ python ev82etiq/function.py
 import ev82etiq
 from ev82etiq import function
 
-# location of test image
-im = r"data\new.png"
+im = '/Users/alex/Dropbox/ev82etiq/data/new.png'
+test = imshow(im, 500)
+plt.imshow(test)
+plt.show()
 
 # by default, ratio is false so image is cropped to square
 # starting height is 500
