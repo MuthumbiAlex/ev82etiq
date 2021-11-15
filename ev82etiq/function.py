@@ -33,6 +33,6 @@ plt.show()
 
 # In[9]:
 
-#####  UNCOMMENT WHEN RUNNING AS IPYNB
+###### UNCOMMENT WHEN RUNNING AS IPYNB
 
 # interact(im_resized, x=fixed(im), height=(100,1000,100), ratio=[True, False])
