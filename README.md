@@ -40,6 +40,8 @@ test = imshow(im, 500)
 plt.imshow(test)
 plt.show()
 
+
+###  USE THIS PART ONLY IN JUPYTER OR COLAB NOTEBOOKS SINCE IT USES INTERACTIVE WHICH WORKS THERE ONLY
 # by default, ratio is false so image is cropped to square
 # starting height is 500
 interact(im_resized, x=fixed(im), height=(100,1000,100), ratio=[True, False])
