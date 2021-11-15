@@ -1,0 +1,5 @@
+######### Here are the packages required to run the code #################
+
+Pillow
+ipywidgets
+matplotlib 
