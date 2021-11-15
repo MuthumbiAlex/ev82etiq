@@ -26,6 +26,10 @@ Features:
 #### Demo of some of the features:
 ```python
 ## cd into the directory
+# in command line/terminal run
+
+python ev82etiq/function.py
+
 ## use in jupyter notebook to use interactive from ipywidgets
 
 import ev82etiq
